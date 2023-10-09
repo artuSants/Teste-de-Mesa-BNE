@@ -1,0 +1,7 @@
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\obj\Debug\Exercicio 1.csproj.AssemblyReference.cache
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\bin\Debug\Exercicio 1.exe
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\bin\Debug\Exercicio 1.pdb
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\obj\Debug\Exercicio 1.exe
+D:\VisualStudio 2022\Repos\Teste-de-Mesa-BNE\Desafio 2\Exercicio 1\obj\Debug\Exercicio 1.pdb

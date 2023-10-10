@@ -34,13 +34,14 @@ namespace Exercicio_3
                 }
                 else
                 {
+                    VF = Principal * Math.Pow(1 + (taxaMensal / 100), i);
                     Console.WriteLine($"| {i,7} | {Principal.ToString("c"),15} | {taxaMensal,12}% | {0.ToString("c"),13} | {VF.ToString("c"),12} |");
                 }
-                VF = Principal * Math.Pow(1 + (taxaMensal / 100), i);
+                
             }
             if (mesesFracionarios > 0)
             {
-                double dias = meses % 10;
+                
                 VF += (Principal * Math.Pow(1 + (taxaMensal / 100), (meses % 10))) - Principal;
                 Console.WriteLine($"| {mesesFracionarios,7:F1} | {Principal.ToString("c"),15} | {taxaMensal,12}% | {0.ToString("c"),13} | {VF.ToString("c"),12} |");
             }

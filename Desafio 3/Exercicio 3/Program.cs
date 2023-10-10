@@ -29,18 +29,14 @@ namespace Exercicio_3
                 if (i == 4)
                 {
                     VF -= saque;
-                    Principal = VF;
-                }
-                VF = Principal * Math.Pow(1 + (taxaMensal / 100), i);
-                if(i == 4)
-                {
                     Console.WriteLine($"| {i,7} | {Principal.ToString("c"),15} | {taxaMensal,12}% | {saque.ToString("c"),13} | {VF.ToString("c"),12} |");
+                    Principal = VF;
                 }
                 else
                 {
                     Console.WriteLine($"| {i,7} | {Principal.ToString("c"),15} | {taxaMensal,12}% | {0.ToString("c"),13} | {VF.ToString("c"),12} |");
                 }
-                
+                VF = Principal * Math.Pow(1 + (taxaMensal / 100), i);
             }
             if (mesesFracionarios > 0)
             {
